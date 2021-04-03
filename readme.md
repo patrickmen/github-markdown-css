@@ -42,7 +42,7 @@ Import the `github-markdown.css` file and add a `markdown-body` class to the con
 </article>
 ```
 
-If you want code syntax highlighted, use GitHub Flavored Markdown rendered from [GitHub's `/markdown` API](https://docs.github.com/en/free-pro-team@latest/rest/reference/markdown).
+1. If you want code syntax highlighted, use GitHub Flavored Markdown rendered from [GitHub's `/markdown` API](https://docs.github.com/en/free-pro-team@latest/rest/reference/markdown).
 
 ## How
 
